@@ -3,6 +3,6 @@
 #### Hello 👏
 
 > I'm a java programmer from China.
-> Interset in javascript&python.
+> Interseted in javascript&python.
 
 🔗 https://blog.zycat.top
