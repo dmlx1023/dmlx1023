@@ -1,4 +1,4 @@
-### Hi there 👋
+hi,i'm a java coder.now interest in java&javascript&python.
 
 <!--
 **limuyan44/limuyan44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
